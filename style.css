@@ -462,7 +462,7 @@ footer {
   font-size: 1vw;
   font-weight: 100;
   text-align: center;
-  margin-top: 320px;
+  margin-top: 20%;
   bottom: 0;
 }
 
@@ -479,12 +479,17 @@ footer {
 @media screen and (max-width: 1024px) {
 }
 @media screen and (max-width: 800px) {
-  /*************** Forside *********************/
-
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
   main {
     max-width: 800px;
     margin: 0 auto;
   }
+  /*************** Forside *********************/
+
   .moenster_forside {
     z-index: 100;
     aspect-ratio: 1921/1081;
@@ -515,9 +520,8 @@ footer {
     font-family: "Italiana", san-serif;
     color: #c61f1f;
     font-size: 1rem;
-    font-weight: 100;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 49%;
   }
 
   /*************** Temaer *********************/
@@ -537,63 +541,82 @@ footer {
     font-size: 1rem;
     font-weight: 100;
     text-align: center;
-    margin-top: 210px;
+    margin-top: 43%;
     bottom: 0;
   }
 
   /*************** Tema 02 *********************/
 
   .temaoverskrift {
-    margin-top: 50px;
-    margin-right: 10px;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
     font-size: 3rem;
   }
 
   .link_hjemmeside {
-    margin-top: 0px;
+    margin-top: 1%;
     font-size: 1rem;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .temaer_moenster {
-    position: absolute;
-    width: 95%;
-    margin-left: 0px;
+    display: none;
   }
 
   .tekst_grundlaeggende_web {
     font-family: "Italiana", san-serif;
     color: #c61f1f;
-    font-size: 0.6rem;
-    top: 52%;
-    left: 48%;
-
-    width: 340px;
+    text-align: justify;
+    font-size: 0.8rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50ch;
+    margin-top: 5%;
   }
 
   .tekst_grundlaeggende_web2 {
     font-family: "Italiana", san-serif;
     color: #c61f1f;
-
-    font-size: 0.6rem;
+    text-align: justify;
+    font-size: 0.8rem;
     top: 60%;
-    left: 50%;
-
-    width: 340px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50ch;
+    margin-bottom: -40%;
   }
 
   .grid_grundlaeggende {
     display: block;
-    gap: 10px;
-    margin-right: 30px;
-    margin-left: 10px;
-    margin-top: 300px;
+  }
+  .flex {
+    font-size: 0.8rem;
+    margin-bottom: -8%;
+    margin-top: 10%;
+  }
+
+  .tekst_grid_temaer {
+    margin-bottom: 2%;
+  }
+
+  .footer_grund {
+    margin-top: 10%;
+    font-size: 0.8rem;
   }
 
   /*************** Tema 03 *********************/
 
   .link_hjemmeside_ux {
-    margin-top: 120px;
+    margin-top: 1%;
     font-size: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .temaer_moenster_ux {
+    display: none;
   }
 
   .nct {
@@ -601,7 +624,6 @@ footer {
     font-size: 1rem;
   }
 
-  .flex,
   .flex2 {
     font-size: 1rem;
   }
@@ -609,11 +631,12 @@ footer {
   .tekst_ux1 {
     font-family: "Italiana", san-serif;
     color: #c61f1f;
-    font-size: 0.57rem;
-    top: 62.5%;
-    left: 48%;
-    transform: translate(-50%, -50%);
-    width: 350px;
+    text-align: justify;
+    font-size: 0.8rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50ch;
+    margin-top: 5%;
   }
 
   .tekst_ux2 {
