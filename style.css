@@ -882,15 +882,15 @@ footer {
   }
 
   .liste {
-    font-size: 0.8rem;
+    font-size: 3vw;
   }
 
   .liste2 {
-    font-size: 0.8rem;
+    font-size: 3vw;
   }
 
   .uddannelse {
-    font-size: 0.8rem;
+    font-size: 3vw;
   }
 
   .footer_om_mig {
@@ -926,7 +926,22 @@ footer {
   }
 }
 
+/*************** Skærmstørrelser *********************/
+
 @media screen and (max-width: 2300px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  main {
+    max-width: 2300px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 1600px) {
   * {
     margin: 0;
     padding: 0;
