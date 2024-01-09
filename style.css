@@ -147,7 +147,7 @@ h2 {
 }
 
 .tekst_grundlaeggende_web {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   margin-top: 13%;
@@ -159,7 +159,7 @@ h2 {
 }
 
 .tekst_grundlaeggende_web2 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   font-size: 1.4vw;
@@ -221,10 +221,10 @@ h2 {
 }
 
 .tekst_ux1 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
-  margin-top: 13%;
+  margin-top: 11%;
   font-size: 1.4vw;
   max-width: 70ch;
   margin-left: 17%;
@@ -232,12 +232,12 @@ h2 {
 }
 
 .tekst_ux2 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
 
   font-size: 1.4vw;
-  margin-top: 3%;
+  margin-top: 2%;
   width: 70ch;
   margin-left: 17%;
   margin-right: 15%;
@@ -265,7 +265,7 @@ h2 {
 }
 
 .tekst_ani1 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   margin-top: 12%;
@@ -276,7 +276,7 @@ h2 {
 }
 
 .tekst_ani2 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   margin-top: 3%;
@@ -322,10 +322,10 @@ h2 {
 }
 
 .tema_ind1 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
-  margin-top: 14%;
+  margin-top: 12%;
   width: 70ch;
   margin-left: 17%;
   margin-right: 15%;
@@ -333,7 +333,7 @@ h2 {
 }
 
 .tema_ind2 {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   margin-top: 3%;
@@ -358,11 +358,11 @@ h2 {
 
 .om_mig_tekst1 {
   grid-column: 2 / 3;
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   font-size: 1.4vw;
-  margin-top: -90%;
+  margin-top: -94%;
   margin-left: 15%;
   margin-right: 15%;
 }
@@ -370,7 +370,7 @@ h2 {
 .om_mig_tekst2 {
   grid-column: 2 / 3;
   position: relative;
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   margin-top: -77%;
@@ -381,7 +381,7 @@ h2 {
 
 .om_mig_tekst3 {
   grid-column: 2 / 3;
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
   text-align: center;
   font-size: 1.4vw;
@@ -400,9 +400,9 @@ h2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   position: absolute;
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  margin-left: 20%;
+  margin-left: 17%;
   margin-top: -25%;
   font-size: 1.4vw;
 }
@@ -423,7 +423,7 @@ h2 {
 }
 
 .kompetencer {
-  font-family: "Italiana", san-serif;
+  font-family: "Montserrat", sans-serif;
   color: #c61f1f;
 
   font-size: 1.4vw;
@@ -458,7 +458,7 @@ h2 {
   font-size: 1vw;
   font-weight: 100;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 2%;
   bottom: 0;
 }
 
@@ -478,7 +478,7 @@ footer {
   font-size: 1vw;
   font-weight: 100;
   text-align: center;
-  margin-top: 19%;
+  margin-top: 20%;
   bottom: 0;
 }
 
@@ -566,7 +566,7 @@ footer {
   .temaoverskrift {
     margin-top: 5%;
     margin-right: 10%;
-    margin-left: 10%;
+    margin-left: 8%;
     font-size: 3rem;
   }
 
@@ -582,22 +582,21 @@ footer {
   }
 
   .tekst_grundlaeggende_web {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 5%;
   }
 
   .tekst_grundlaeggende_web2 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
-    top: 60%;
-    margin-right: 10px;
+    font-size: 3vw;
+    padding-right: 10px;
     margin-left: 10%;
     width: 41.5ch;
 
@@ -658,20 +657,20 @@ footer {
   }
 
   .tekst_ux1 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 5%;
   }
 
   .tekst_ux2 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10px;
     margin-left: 10%;
     width: 41.5ch;
@@ -697,10 +696,10 @@ footer {
   }
 
   .tekst_ani1 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     width: 41.5ch;
@@ -709,10 +708,10 @@ footer {
   }
 
   .tekst_ani2 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     width: 41.5ch;
@@ -740,10 +739,10 @@ footer {
   }
 
   .tema_ind1 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     width: 41.5ch;
@@ -751,10 +750,10 @@ footer {
   }
 
   .tema_ind2 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
-    font-size: 0.8rem;
+    font-size: 3vw;
     margin-right: 10%;
     margin-left: 10%;
     width: 41.5ch;
@@ -809,7 +808,7 @@ footer {
   }
 
   .cv_tekst {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
 
     transform: translate(-50%, -50%);
@@ -818,7 +817,7 @@ footer {
 
   .om_mig_tekst1 {
     display: block;
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
@@ -828,7 +827,7 @@ footer {
   }
 
   .om_mig_tekst2 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
@@ -839,7 +838,7 @@ footer {
   }
 
   .om_mig_tekst3 {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
@@ -850,7 +849,7 @@ footer {
   }
 
   .kompetencer {
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
@@ -863,13 +862,13 @@ footer {
   .grid_cv {
     display: grid;
     grid-template-rows: 1fr 1fr;
-    font-family: "Italiana", san-serif;
+    font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    margin-top: 35%;
+    margin-top: 38%;
     font-size: 0.8rem;
 
-    margin-left: 10%;
-    margin-right: 4%;
+    margin-left: 18%;
+    margin-right: 10%;
   }
 
   .liste {
@@ -889,7 +888,7 @@ footer {
     color: #c61f1f;
     font-size: 0.8rem;
     text-align: center;
-    margin-top: 75%;
+    margin-top: 80%;
     margin-bottom: 4%;
   }
 
