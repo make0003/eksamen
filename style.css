@@ -1107,6 +1107,18 @@ footer {
     max-width: 2300px;
     margin: 0 auto;
   }
+
+  .temaer_moenster {
+    margin-left: 5%;
+  }
+
+  .temaer_moenster_ux {
+    margin-left: 5%;
+  }
+
+  .footer_kontakt {
+    margin-top: 18%;
+  }
 }
 
 @media screen and (max-width: 1600px) {
