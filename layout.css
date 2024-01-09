@@ -13,7 +13,7 @@ nav {
   display: flex;
 }
 
-.menu {
+.menu_d {
   display: flex;
   list-style: none;
   align-items: center;
@@ -22,23 +22,22 @@ nav {
   margin-right: 20px;
 }
 
-.menu li {
+.menu_d li {
   margin-right: 20px;
 }
 
-.menu li:last-child {
+.menu_d li:last-child {
   margin-right: 0;
 }
 
-.menu a {
+.menu_d a {
   display: block;
   padding: 30px;
   text-align: end;
   position: relative;
-  top: -57px;
 }
 
-.menu a:hover {
+.menu_d a:hover {
   text-decoration: underline;
 }
 
@@ -47,7 +46,7 @@ nav {
   height: 20px;
   cursor: pointer;
   position: relative;
-  top: 25px;
+  top: 45px;
   right: 25px;
 }
 
@@ -63,7 +62,7 @@ nav {
 }
 
 @media screen and (max-width: 800px) {
-  .menu {
+  .menu_d {
     display: none;
   }
   .burger {
@@ -84,27 +83,29 @@ nav {
     transition: 0.2s linear;
   }
 
-  nav.active .menu {
+  nav.active .menu_d {
     display: block;
     background-color: #fff5e9;
     position: absolute;
     top: 150px;
     left: 0;
     width: 100%;
-
+    margin-left: auto;
+    margin-right: auto;
     z-index: 1;
   }
 
-  nav.active .menu li {
+  nav.active .menu_d li {
     margin: 10px 20px;
+    font-size: 1rem;
   }
 
-  nav.active .menu a {
+  nav.active .menu_d a {
     text-align: center;
     font-size: 24px;
   }
 
-  nav.active .menu a:hover {
+  nav.active .menu_d a:hover {
     text-decoration: underline;
   }
 }
