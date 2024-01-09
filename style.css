@@ -1077,6 +1077,8 @@ footer {
     font-weight: 100;
     text-align: center;
     margin-top: 11%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 0;
   }
 
@@ -1087,7 +1089,7 @@ footer {
   }
 
   .footer_kontakt {
-    margin-top: 57%;
+    margin-top: 55%;
     font-size: 0.8rem;
   }
 }
