@@ -565,8 +565,8 @@ footer {
 
   .temaoverskrift {
     margin-top: 5%;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 10%;
+    margin-left: 10%;
     font-size: 3rem;
   }
 
@@ -586,9 +586,8 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-top: 5%;
   }
 
@@ -598,9 +597,10 @@ footer {
     text-align: justify;
     font-size: 0.8rem;
     top: 60%;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10px;
+    margin-left: 10%;
+    width: 41.5ch;
+
     margin-bottom: -40%;
   }
 
@@ -661,9 +661,8 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-top: 5%;
   }
 
@@ -672,9 +671,9 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10px;
+    margin-left: 10%;
+    width: 41.5ch;
     margin-top: 5%;
     margin-bottom: -40%;
   }
@@ -701,9 +700,10 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 41.5ch;
+
     margin-top: 5%;
   }
 
@@ -712,9 +712,9 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 41.5ch;
     margin-top: 5%;
     margin-bottom: -40%;
   }
@@ -742,9 +742,9 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 41.5ch;
     margin-top: 5%;
   }
 
@@ -753,9 +753,9 @@ footer {
     color: #c61f1f;
     text-align: justify;
     font-size: 0.8rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 50ch;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 41.5ch;
     margin-top: 5%;
     margin-bottom: -40%;
   }
