@@ -149,7 +149,7 @@ h2 {
 .tekst_grundlaeggende_web {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 13%;
   font-size: 1.4vw;
   max-width: 70ch;
@@ -161,7 +161,7 @@ h2 {
 .tekst_grundlaeggende_web2 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   font-size: 1.4vw;
   margin-top: 3%;
   width: 70ch;
@@ -228,7 +228,7 @@ h2 {
 .tekst_ux1 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 11%;
   font-size: 1.4vw;
   max-width: 70ch;
@@ -239,8 +239,7 @@ h2 {
 .tekst_ux2 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
-
+  text-align: justify;
   font-size: 1.4vw;
   margin-top: 2%;
   width: 70ch;
@@ -272,7 +271,7 @@ h2 {
 .tekst_ani1 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 12%;
   width: 70ch;
   margin-left: 17%;
@@ -283,7 +282,7 @@ h2 {
 .tekst_ani2 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 3%;
   width: 70ch;
   margin-left: 17%;
@@ -330,7 +329,7 @@ h2 {
 .tema_ind1 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 12%;
   width: 70ch;
   margin-left: 17%;
@@ -341,7 +340,7 @@ h2 {
 .tema_ind2 {
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: 3%;
   width: 70ch;
   margin-left: 17%;
@@ -366,7 +365,7 @@ h2 {
   grid-column: 2 / 3;
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   font-size: 1.4vw;
   margin-top: -96%;
   margin-left: 15%;
@@ -378,7 +377,7 @@ h2 {
   position: relative;
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   margin-top: -80%;
   margin-left: 15%;
   margin-right: 15%;
@@ -389,7 +388,7 @@ h2 {
   grid-column: 2 / 3;
   font-family: "Montserrat", sans-serif;
   color: #c61f1f;
-  text-align: center;
+  text-align: justify;
   font-size: 1.4vw;
   margin-top: -55%;
   margin-left: 15%;
@@ -508,7 +507,7 @@ footer {
     grid-column: 2 / 3;
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     font-size: 1.3vw;
     margin-top: -98%;
     margin-left: 15%;
@@ -520,7 +519,7 @@ footer {
     position: relative;
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: -82%;
     margin-left: 15%;
     margin-right: 15%;
@@ -531,7 +530,7 @@ footer {
     grid-column: 2 / 3;
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     font-size: 1.3vw;
     margin-top: -57%;
     margin-left: 15%;
@@ -570,7 +569,7 @@ footer {
   .tekst_grundlaeggende_web {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 15%;
     font-size: 1.4vw;
     max-width: 70ch;
@@ -582,7 +581,7 @@ footer {
   .tekst_grundlaeggende_web2 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     font-size: 1.4vw;
     margin-top: 3%;
     width: 70ch;
@@ -595,7 +594,7 @@ footer {
   .tekst_ux1 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 13%;
     font-size: 1.4vw;
     max-width: 70ch;
@@ -606,7 +605,7 @@ footer {
   .tekst_ux2 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
 
     font-size: 1.4vw;
     margin-top: 2%;
@@ -620,7 +619,7 @@ footer {
   .tekst_ani1 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 13%;
     width: 70ch;
     margin-left: 17%;
@@ -631,7 +630,7 @@ footer {
   .tekst_ani2 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 3%;
     width: 70ch;
     margin-left: 17%;
@@ -644,7 +643,7 @@ footer {
   .tema_ind1 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 14%;
     width: 70ch;
     margin-left: 17%;
@@ -655,7 +654,7 @@ footer {
   .tema_ind2 {
     font-family: "Montserrat", sans-serif;
     color: #c61f1f;
-    text-align: center;
+    text-align: justify;
     margin-top: 3%;
     width: 70ch;
     margin-left: 17%;
@@ -744,7 +743,7 @@ footer {
 
   .link_hjemmeside {
     margin-top: 1%;
-    font-size: 1rem;
+    font-size: 3vw;
     margin-right: auto;
     margin-left: auto;
   }
@@ -786,6 +785,7 @@ footer {
 
   .tekst_grid_temaer {
     margin-bottom: 2%;
+    font-size: 3vw;
   }
 
   .footer_grund {
@@ -803,7 +803,7 @@ footer {
 
   .link_hjemmeside_ux {
     margin-top: 1%;
-    font-size: 1rem;
+    font-size: 3vw;
     margin-right: auto;
     margin-left: auto;
   }
@@ -867,7 +867,7 @@ footer {
 
   .link_hjemmeside_animation {
     margin-top: 1%;
-    font-size: 1rem;
+    font-size: 3vw;
     margin-right: auto;
     margin-left: auto;
   }
@@ -910,7 +910,7 @@ footer {
 
   .link_hjemmeside_indhold {
     margin-top: 1%;
-    font-size: 1rem;
+    font-size: 3vw;
     margin-right: auto;
     margin-left: auto;
   }
