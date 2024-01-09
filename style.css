@@ -42,22 +42,22 @@ a {
   color: #c61f1f;
   text-decoration: none;
   text-align: end;
-  font-size: 2vw;
+  font-size: 1.5vw;
   position: absolute;
-  margin-top: 50px;
+  margin-top: 53%;
 }
 
 .logo_tekst {
   font-family: "Italiana", san-serif;
   position: relative;
   top: -70px;
-  left: 80px;
+  left: 48%;
   font-size: 2rem;
 }
 
 .M {
-  margin-left: 5px;
-  margin-top: 5px;
+  margin-left: 10%;
+  margin-top: 10%;
 }
 
 /*************** Forside *********************/
@@ -74,7 +74,7 @@ h1 {
 .semester {
   font-family: "Italiana", san-serif;
   color: #c61f1f;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 100;
   text-align: center;
 
@@ -478,7 +478,7 @@ footer {
   font-size: 1vw;
   font-weight: 100;
   text-align: center;
-  margin-top: 20%;
+  margin-top: 19%;
   bottom: 0;
 }
 
