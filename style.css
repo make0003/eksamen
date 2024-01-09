@@ -423,8 +423,8 @@ h2 {
 
 .uddannelse {
   font-weight: bold;
-
   margin-bottom: 3%;
+  margin-left: -4%;
 }
 
 .kompetencer {
@@ -441,6 +441,7 @@ h2 {
 .cv {
   font-weight: bold;
   margin-bottom: 3%;
+  margin-left: -4%;
 }
 
 /*************** Kontakt *********************/
