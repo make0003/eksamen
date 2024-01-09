@@ -497,8 +497,173 @@ footer {
   bottom: 0;
 }
 
-@media screen and (max-width: 1024px) {
+/*************** Tablet.1 *********************/
+
+@media screen and (max-width: 1150px) {
+  /*************** Om mig *********************/
+
+  .om_mig_tekst1 {
+    grid-column: 2 / 3;
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    font-size: 1.3vw;
+    margin-top: -98%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .om_mig_tekst2 {
+    grid-column: 2 / 3;
+    position: relative;
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: -82%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 1.3vw;
+  }
+
+  .om_mig_tekst3 {
+    grid-column: 2 / 3;
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    font-size: 1.3vw;
+    margin-top: -57%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .grid_cv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: -22%;
+    font-size: 1.2vw;
+  }
+
+  .kompetencer {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+
+    font-size: 1.4vw;
+    position: absolute;
+    margin-top: -33%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
 }
+
+/*************** Tablet.2 *********************/
+
+@media screen and (max-width: 1200px) {
+  /*************** Tema 02 *********************/
+
+  .tekst_grundlaeggende_web {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 1.4vw;
+    max-width: 70ch;
+
+    margin-left: 17%;
+    margin-right: 15%;
+  }
+
+  .tekst_grundlaeggende_web2 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    font-size: 1.4vw;
+    margin-top: 3%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+  }
+
+  /*************** Tema 03 *********************/
+
+  .tekst_ux1 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 13%;
+    font-size: 1.4vw;
+    max-width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+  }
+
+  .tekst_ux2 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+
+    font-size: 1.4vw;
+    margin-top: 2%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+  }
+
+  /*************** Tema 04 *********************/
+
+  .tekst_ani1 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 13%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+    font-size: 1.4vw;
+  }
+
+  .tekst_ani2 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 3%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+    font-size: 1.4vw;
+  }
+
+  /*************** Tema 05 *********************/
+
+  .tema_ind1 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 14%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+    font-size: 1.4vw;
+  }
+
+  .tema_ind2 {
+    font-family: "Montserrat", sans-serif;
+    color: #c61f1f;
+    text-align: center;
+    margin-top: 3%;
+    width: 70ch;
+    margin-left: 17%;
+    margin-right: 15%;
+    font-size: 1.4vw;
+  }
+}
+
+/*************** Mobilsite *********************/
+
 @media screen and (max-width: 800px) {
   * {
     margin: 0;
